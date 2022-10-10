@@ -2,8 +2,8 @@
 
 #### Github Stats
 
-![fasterv410 github stats](https://github-readme-stats.vercel.app/api?username=fasterv410&count_private=true&theme=synthwave&show_icons=true&include_all_commits=true)
+![fasterv410 github stats](https://github-readme-stats.vercel.app/api?username=fasterv410&count_private=true&theme=dracula&show_icons=true&include_all_commits=true)
 
-![fasterv410 top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasterv410&theme=synthwave&layout=compact)
+![fasterv410 top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fasterv410&theme=dracula&layout=compact)
 
 <!-- ![fasterv410 top langs](https://github-readme-stats.vercel.app/api/wakatime?username=fasterv410&theme=synthwave) -->
