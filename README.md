@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Thiraphat <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;UX/UI+Designer;Always%20learning%20new%20things&center=true&width=500&height=50&color=F7D42F">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;UX/UI+Designer;Always%20learning%20new%20things&center=true&width=500&height=50&color=FD6E96">
 </p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -20,8 +20,8 @@
 
 <p align="center">
 <a href="https://github.com/fasterv410">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fasterv410&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fasterv410&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fasterv410&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fasterv410&layout=compact&langs_count=8&theme=dracula&include_all_commits=true&count_private=true"/>
   
 </a>
 </p>
@@ -31,7 +31,7 @@
 
    <p align="center">
    <a href="https://github.com/fasterv410"><img alt="Thiraphat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fasterv410&custom_title=Thiraphat's%20Contribution%20Graph&theme=react-dark" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fasterv410&theme=algolia" alt="fasterv410" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fasterv410&theme=dracula" alt="fasterv410" />
    </a>
 </p>
 
