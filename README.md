@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Thiraphat <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Nont ¯\_(ツ)_/¯ <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;UX/UI+Designer;Always%20learning%20new%20things&center=true&width=500&height=50&color=F9BD2E">
 </p>
@@ -28,12 +28,12 @@
 </a>
 </p>
 <br />
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
+<!-- <summary><b>⚡ Recent GitHub Activity</b></summary> -->
+<!--   <br/>
 
    <p align="center">
    <a href="https://github.com/fasterv410"><img alt="Thiraphat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fasterv410&custom_title=Thiraphat's%20Contribution%20Graph&theme=gruvbox" />
-</p>
+</p> -->
 
   <br/> 
 
