@@ -1,6 +1,10 @@
-<h1 align="center">Hi , I'm Nont ¯\_(ツ)_/¯ <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Nont <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Front-End+Developer;UX/UI+Designer;Always%20learning%20new%20things&center=true&width=500&height=50&color=F9BD2E">
+</p>
+
+<p align="center">
+  <a href="https://app.daily.dev/fasterv_410"><img src="https://github.com/fasterv410/fasterv410/blob/main/devcard.svg" width="400" alt="Thiraphat Yotharak's Dev Card"/></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -19,8 +23,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://app.daily.dev/fasterv_410"><img src="https://api.daily.dev/devcards/devcard.svg?r=6l1" width="400" alt="Thiraphat Yotharak's Dev Card"/></a>
-<br />
 <a href="https://github.com/fasterv410">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fasterv410&theme=gruvbox" alt="fasterv410" />
 <br />
