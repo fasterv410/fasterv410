@@ -19,7 +19,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://app.daily.dev/fasterv_410"><img src="https://api.daily.dev/devcards/7feb0c08866342a69935ad214ea35cb2.png?r=6l1" width="400" alt="Thiraphat Yotharak's Dev Card"/></a>
+<a href="https://app.daily.dev/fasterv_410"><img src="https://api.daily.dev/devcards/devcard.svg?r=6l1" width="400" alt="Thiraphat Yotharak's Dev Card"/></a>
 <br />
 <a href="https://github.com/fasterv410">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fasterv410&theme=gruvbox" alt="fasterv410" />
