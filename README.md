@@ -40,6 +40,9 @@
 </p> -->
 
   <br/> 
+  
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
 
 <summary><b>Languages and Tools</b></summary><br />
 <p align="left">
