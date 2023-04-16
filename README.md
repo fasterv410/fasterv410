@@ -39,10 +39,7 @@
    <a href="https://github.com/fasterv410"><img alt="Thiraphat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fasterv410&custom_title=Thiraphat's%20Contribution%20Graph&theme=gruvbox" />
 </p> -->
 
-  <br/> 
-  
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
+<br/> 
 
 <summary><b>Languages and Tools</b></summary><br />
 <p align="left">
@@ -75,3 +72,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
