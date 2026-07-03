@@ -23,12 +23,14 @@ I build responsive, accessible web applications and enjoy combining code, design
 
 ## 🤖 AI Skills & Experience
 
-I actively use AI as part of my daily development workflow:
+**Tools:** Claude · ChatGPT · GitHub Copilot · Gemini · TensorFlow
 
 - **AI-Assisted Development** — code generation, review, and debugging with Claude, ChatGPT, and GitHub Copilot
 - **Prompt Engineering** — crafting and optimizing prompts for development tasks and AI-powered assistants
 - **AI Integration** — connecting AI APIs (Claude, OpenAI, Gemini) into web applications and workflows
 - **AI-Powered UX/UI** — generative AI for design ideation, smart UI components, and accessibility improvements
+
+**How AI fits into my workflow:** accelerating development cycles, generating boilerplate and component structures, debugging complex issues, and automating documentation — so I can focus on architecture and user experience.
 
 ## 📊 GitHub Stats
 
