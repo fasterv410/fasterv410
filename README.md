@@ -21,6 +21,15 @@ I build responsive, accessible web applications and enjoy combining code, design
 | **AI Tools** | Claude, ChatGPT, GitHub Copilot |
 | **Tools** | Git, VS Code, Postman |
 
+## 🤖 AI Skills & Experience
+
+I actively use AI as part of my daily development workflow:
+
+- **AI-Assisted Development** — code generation, review, and debugging with Claude, ChatGPT, and GitHub Copilot
+- **Prompt Engineering** — crafting and optimizing prompts for development tasks and AI-powered assistants
+- **AI Integration** — connecting AI APIs (Claude, OpenAI, Gemini) into web applications and workflows
+- **AI-Powered UX/UI** — generative AI for design ideation, smart UI components, and accessibility improvements
+
 ## 📊 GitHub Stats
 
 <p>
