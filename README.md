@@ -1,4 +1,4 @@
-# Hi, I'm Nont (Thiraphat Yotharak) 👋
+# Hi, I'm Nont 👋
 
 **Front-End Developer & UX/UI Designer** based in Thailand 🇹🇭
 
